@@ -15,7 +15,6 @@ I'm building [Vulorean](https://vulorean.com). The smaller projects live here.
 | Project | What it does |
 | --- | --- |
 | [Vulorean](https://vulorean.com) | Property tax appeals, built around the homeowner. |
-| [venm](https://quano.us/venm/) | A browser interface experiment inspired by Venmo. |
 
 ### On GitHub
 
